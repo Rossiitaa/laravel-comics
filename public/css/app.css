@@ -10955,3 +10955,19 @@ a {
   top: 23rem;
   left: 18rem;
 }
+
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  position: relative;
+  margin: 0 1rem;
+}
+nav ul li a {
+  color: #57646F;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 3.9rem 0;
+}

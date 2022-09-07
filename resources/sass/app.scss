@@ -98,3 +98,23 @@
             }
         }
         
+        nav {
+
+            ul {
+            list-style: none;
+
+            li {
+                display: inline-block;
+                position: relative;
+                margin: 0 1rem;
+
+                a {
+                color: $textColor;
+                font-weight: bold;
+                text-decoration: none;
+                text-transform: uppercase;
+                padding: 3.9rem 0;
+                }
+            }
+        }
+    }
